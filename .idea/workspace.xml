@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0730799-ecbc-4919-8d80-4f9af0afb94e" name="Changes" comment="added environment variables file in .gitignore">
-      <change afterPath="$PROJECT_DIR$/ice_breaker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    <list default="true" id="b0730799-ecbc-4919-8d80-4f9af0afb94e" name="Changes" comment="added environment variables file in .gitignore and Developed Hello World Application in LangChain">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +135,7 @@
       <updated>1729752265598</updated>
       <workItem from="1729752267530" duration="6094000" />
       <workItem from="1729802475621" duration="3311000" />
-      <workItem from="1729892160889" duration="2403000" />
+      <workItem from="1729892160889" duration="2495000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit on LangChain">
       <option name="closed" value="true" />
@@ -165,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729805798191</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added environment variables file in .gitignore and Developed Hello World Application in LangChain">
+      <option name="closed" value="true" />
+      <created>1729894619349</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729894619349</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +190,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit on LangChain" />
     <MESSAGE value="Working on LinkedIn Profiles Fetching usign ProxyCurl" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on LinkedIn Profiles Fetching usign ProxyCurl" />
+    <MESSAGE value="added environment variables file in .gitignore and Developed Hello World Application in LangChain" />
+    <option name="LAST_COMMIT_MESSAGE" value="added environment variables file in .gitignore and Developed Hello World Application in LangChain" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ice_breaker$linkedin.coverage" NAME="linkedin Coverage Results" MODIFIED="1729805644682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/third_parties" />
