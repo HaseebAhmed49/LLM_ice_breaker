@@ -1,4 +1,7 @@
-** Developed & Tested this application in macOS **
+# LangChain- Develop LLM powered applications with LangChain
+## ICE BREAKER APPLICATION
+
+** Developed & Tested this LangChain basic application in macOS **
 
 1. Install Python=3.13.
 2. Install Pycharm
