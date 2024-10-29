@@ -10,6 +10,7 @@ langchainhub = "*"
 python-dotenv = "*"
 langchain-ollama = "*"
 langchain-community = "*"
+flask = "*"
 
 [dev-packages]
 
