@@ -6,6 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/50e56399-2102-45b8-8b67-1fa9eb37ed74)
 
+### Steps to run the application
 
 1. Install Python=3.13.
 2. Install Pycharm
