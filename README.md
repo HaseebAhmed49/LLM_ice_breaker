@@ -13,7 +13,7 @@
      4. Add Base Interpretor (Python path where its installed by using "which python3" on terminal)
      5. Add Pipenv executable (Python path where its installed by using "which pipenv" on terminal)
      6. See this screenshot for Step 4.4 and 4.5 ![image](https://github.com/user-attachments/assets/4981800a-0c55-4307-ab69-220f0f312355)
-5. Generate .env file and store API Keys as in below image ![image](https://github.com/user-attachments/assets/e9fdec31-a034-49bf-93a0-8c6ebf980486)
+5. Generate .env file and store API Keys as in below image 
 6. KEY DETAILS:
      1. OPENAI_API_KEY (CHATGPT Model)
      2. PROXYCURL_API_KEY (Accessing LinkedIn Profiles)
