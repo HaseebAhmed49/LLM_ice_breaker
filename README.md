@@ -1,7 +1,11 @@
-# LangChain- Develop LLM powered applications with LangChain
+# LangChain - Develop LLM powered applications with LangChain
 ## ICE BREAKER APPLICATION
+### This Application fetch the LinkedIn Data of any profile using ProxyCurl API, analyze and extraxt the information and display in a readable format using Large Language Model (CHATGPT-4o-mini)
 
-** Developed & Tested this LangChain basic application in macOS **
+### Application Running Screenshot
+
+![image](https://github.com/user-attachments/assets/50e56399-2102-45b8-8b67-1fa9eb37ed74)
+
 
 1. Install Python=3.13.
 2. Install Pycharm
@@ -23,6 +27,7 @@
 9. Run the application in pycharm.
 
 ** This is a test applications. Errors and Ommissions are accepted ** 
+** Developed & Tested this LangChain basic application in macOS **
 
 *** In case of any errors, contact at "haseebahmed02@gmail.com" or Whatsapp "+447949067041". Will debug the application at your end and let it run ***
 
